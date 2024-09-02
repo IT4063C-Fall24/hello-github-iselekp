@@ -24,20 +24,24 @@ Make sure you follow the instructions carefully. You will be asked to complete a
 ## 💭 Reflection and Self Assessment
 
 **I learned:** (repeat as needed)
-- .
+- How to install and configure GitHub Desktop and VS Code
+- How to create and edit files in VS Code
+- How to commit changes made with VS Code to local repository
+- How to push/synch changes in the local repo to the GitHub repo
 
 **I struggled with:** (repeat as needed)
-- .
+- Configuring the git.path setting in VS Code
 
 **I need the instructor to help me with:** (repeat as needed)
-- .
+- n/a
 
-**💯 Self Grade:** For this assignment, based on my work and my reflections I should get [ ] out of 20.
+**💯 Self Grade:** For this assignment, based on my work and my reflections I should get 20 out of 20.
 
 
 ## 📚 References and Citations
 **I used the following links, books, and other resources in my work:** (repeat as needed)
-- .
+- https://stackoverflow.com/questions/29971624/visual-studio-code-cannot-detect-installed-git
+- https://stackoverflow.com/questions/34565238/where-does-github-desktop-install-command-line-version-of-git
   
 **I received help from the following people:** (repeat as needed)
-- . 
+- n/a
